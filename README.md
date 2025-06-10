@@ -5,7 +5,7 @@ It supports multi-turn conversations, destination/date handling, and basic fulfi
 
 ---
 
-## 🚀 Features
+## Features
 
 - Book tickets by chatting with the bot
 - Supports destination, date, time, class, email of passengers, and payment mode.
